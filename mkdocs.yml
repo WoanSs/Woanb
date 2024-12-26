@@ -45,6 +45,12 @@ theme:
       - search.suggest
       - search.highlight
       - navigation.footer
+      - navigation.tracking
+      - navigation.sections
+      #- navigation.expand
+      - navigation.indexes
+      - navigation.top
+      - toc.follow
 
 copyright: Copyright &copy; 2024 thienqc
 
