@@ -109,6 +109,8 @@ extra:
       link: https://www.facebook.com/yds.thienqc/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/thienqc/
+    - icon: fontawesome/brands/youtube 
+      link: https://www.youtube.com/channel/UC9J6Z1J1Z2QvJ9J7
   analytics:
     provider: google
     property: 
