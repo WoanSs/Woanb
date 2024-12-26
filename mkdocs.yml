@@ -58,7 +58,7 @@ copyright: Copyright &copy; 2024 thienqc
 
 plugins:
   - search
-  # - roamlinks
+  #- roamlinks
   - autolinks
   - callouts
   # - meta:
