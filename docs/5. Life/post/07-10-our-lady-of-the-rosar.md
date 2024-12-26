@@ -1,5 +1,5 @@
 ---
-filename: 07-10-our-lady-of-the-rosary
+filename: 07-10-our-lady-of-the-rosa
 aliases:
   - 07.10 | Our Lady of the Rosary
 share: true
