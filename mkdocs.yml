@@ -1,7 +1,7 @@
-site_name: thienqc
-site_description: thienqc's blog
+site_name: Woan
+site_description: WWoan
 site_url: https://thienqc.github.io/blog/
-site_author: thienqc
+site_author: wwww
 
 theme:
     name: material
@@ -91,7 +91,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
-     
+    
   - toc:
       permalink: true
 
