@@ -2,9 +2,9 @@
 date: 
 filename:
 aliases:
-  - 
+  -d
 tag:
-  - ss
+  - d
 share: true
 comments: true
 Source:
