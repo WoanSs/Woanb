@@ -1,0 +1,14 @@
+---
+date: 2024-12-28
+filename:
+aliases:
+  - 
+tag:
+  - ss
+share: true
+comments: true
+Source:
+Description:
+---
+
+lundered the catacombs, Pope Boniface IV gathered up some 28 wagon-loads of bones and reinterred them beneath the Pantheon, a Roman temple dedicated to all the gods. The pope rededicated the shrine as a Christian church. According to Venerable Bede, the pope intended “that the memory of all the saints might in the fut
