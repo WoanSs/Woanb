@@ -65,7 +65,8 @@ plugins:
   #     meta_file: .meta.yml
   - blogging:
       dirs:
-        - post
+         - post
+         - 1.a. Journal 
       template: overrides/custom-blog.html
       features:
         tags:

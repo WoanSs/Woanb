@@ -6,7 +6,7 @@ share: true
 comments: true
 tags:
   - SaintOfTheDay
-date: 2024-10-01
+date: 2024-12-01
 URL: https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/
 description: 
 ---

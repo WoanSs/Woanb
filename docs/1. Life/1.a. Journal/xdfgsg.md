@@ -1,0 +1,15 @@
+---
+filename: 01-10-saint-therese-of-lisieux
+aliases:
+  - 01.10 | Saint Thérèse of Lisieux
+share: true
+comments: true
+tags:
+  - SaintOfTheDay
+date: 2024-12-28
+URL: https://www.franciscanmedia.org/saint-of-the-day/saint-therese-of-lisieux/
+description: 
+---
+ádfád
+ádfadsff
+*18* Sau đây là gốc tích Đức Giê-su Ki-tô: bà Ma-ri-a, mẹ Người, đã thành hôn với ông Giu-se. Nhưng trước khi hai ông bà về chung sống, bà đã có thai do quyền năng Chúa Thánh Thần.*19* Ông Giu-se, chồng bà, là người công chính và không muốn tố giác bà, nên mới định tâm bỏ bà cách kín đáo. *20* Ông đang toan tính như vậy, thì kìa sứ thần Chúa hiện đến báo mộng cho ông rằng: “Này ông Giu-se, con cháu Đa-vít, đừng ngại đón bà Ma-ri-a vợ ông về, vì người con bà cưu mang là do quyền năng Chúa Thánh Thần.*21* Bà sẽ sinh con trai và ông phải đặt tên cho con trẻ là Giê-su, vì chính Người sẽ cứu dân Người khỏi tội lỗi của họ.”*22* Tất cả sự việc này đã xảy ra, là để ứng nghiệm lời xưa kia Chúa phán qua miệng ngôn sứ:*23* Này đây, Trinh Nữ sẽ thụ thai và sinh hạ một con trai, người ta sẽ gọi tên con trẻ là Em-ma-nu-en, nghĩa là “Thiên-Chúa-ở-cùng-chúng-ta.”*24* Khi tỉnh giấc, ông Giu-se làm như sứ thần Chúa dạy và đón vợ về nhà.*25* Ông không ăn ở với bà, cho đến khi bà sinh một con trai, và ông đặt tên cho con trẻ là Giê-su
