@@ -1,14 +1,13 @@
 ---
 date: 
-filename:
-aliases:
-  -d
-tag:
+filename: 
+aliases: []
+tags:
   - asd
   - sdf
 share: true
 comments: true
-Source:
+Source: 
 Description:
 ---
 
