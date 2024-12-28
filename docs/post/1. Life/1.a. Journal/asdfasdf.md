@@ -4,7 +4,7 @@ filename:
 aliases:
   -d
 tag:
-  - d
+  - Demo
 share: true
 comments: true
 Source:
