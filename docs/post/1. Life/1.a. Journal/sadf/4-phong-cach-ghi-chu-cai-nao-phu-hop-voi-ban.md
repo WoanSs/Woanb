@@ -23,7 +23,8 @@ Hiện có nhiều app để ghi chú, mỗi app lại được quảng cáo v�
 ![[Pasted image 20241228162536.png]]
 Có thể chia cách tổ chức ghi chú thành 4 kiểu: kiểu thủ thư thư viện, kiểu kiến trúc sư, kiểu người làm vườn, kiểu nhà kho. 
 
-![[whale.png]] 
+![](whale.png) 
+
 Mỗi kiểu ghi chú sẽ có một đặc trưng riêng, và đây không hẳn là có 4 loại app ghi chú, vì ta hoàn toàn có thể biến một app từ kiểu này sang kiểu kia, nhưng nếu app không phù hợp với phong cách của bạn thì sẽ rất cực.
 ![](https://i.imgur.com/mVLvWIc.jpg))
 ##### KIỂU NGƯỜI THỦ THƯ
