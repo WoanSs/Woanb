@@ -20,9 +20,9 @@ comments: true
 
 
 Hiện có nhiều app để ghi chú, mỗi app lại được quảng cáo với nhiều tính năng: chèn được hình ảnh, nhận diện được chữ viết tay, kẻ được bảng, định dạng nhanh, chia sẻ với người khác... Tuy nhiên, điều quan trọng hơn ẩn sau những tính năng mà không ai nói là **cách tổ chức thông tin**.
-
+![[Pasted image 20241228162536.png]]
 Có thể chia cách tổ chức ghi chú thành 4 kiểu: kiểu thủ thư thư viện, kiểu kiến trúc sư, kiểu người làm vườn, kiểu nhà kho. Mỗi kiểu ghi chú sẽ có một đặc trưng riêng, và đây không hẳn là có 4 loại app ghi chú, vì ta hoàn toàn có thể biến một app từ kiểu này sang kiểu kia, nhưng nếu app không phù hợp với phong cách của bạn thì sẽ rất cực.
-
+![](https://i.imgur.com/mVLvWIc.jpg))
 ##### KIỂU NGƯỜI THỦ THƯ
 
 Đặc điểm của những người này là SẮP XẾP NGĂN NẮP. Thông tin sẽ được bỏ vào các hộc có sẵn, chia theo Folder mẹ -> Folder con -> ghi chú, được gắn nhãn, sắp xếp. Đây là kiểu cổ điển nhất và có muôn vàn app: Evernote, OneNote, Notability, Good Notes, Bears,...
