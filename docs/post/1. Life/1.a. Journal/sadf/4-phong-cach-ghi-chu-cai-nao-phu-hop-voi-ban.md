@@ -62,4 +62,6 @@ Phong cách ghi chú của bạn như thế nào? Và bạn đang dùng ap
 
 > [!Example] Xem thêm
 > [Quá nhiều app ghi chú, chọn cái nào bây giờ](./qua-nhieu-app-ghi-chu-chon-cai-nao-bay-gio.md)
-> 
+> [1.a.aasdads ](./1.a.3. dsff.md)  
+
+[asdf](./1.a.3. dsff.md)
