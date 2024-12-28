@@ -7,6 +7,8 @@ comments: true
 tags:
   - afa
   - asdf
+link:
+  - adf.md
 date: 
 URL: 
 description: 
