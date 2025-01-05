@@ -10,8 +10,8 @@ theme:
       logo: fontawesome/solid/scroll
     favicon: assets/meta/whale 02.png 
     font:
-        text: San Francisco 
-        code: San Francisco 
+        text: Jetbrains Mono 
+        code: Jetbrains Mono
     language: en
     
     # palette:
