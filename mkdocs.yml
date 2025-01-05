@@ -10,8 +10,8 @@ theme:
       logo: fontawesome/solid/scroll
     favicon: assets/meta/whale 02.png 
     font:
-        text: Jetbrains Mono 
-        code: Jetbrains Mono
+        text: JetBrains Mono 
+        code: JetBrains Mono 
     language: en
     
     # palette:
